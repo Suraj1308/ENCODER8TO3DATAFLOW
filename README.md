@@ -62,7 +62,7 @@ endmodulemodule exp5(din,a,b,c);
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 
-![Screenshot (101)](https://github.com/user-attachments/assets/8ca0e1a4-9e6a-4798-9e2c-d6be3362674f)
+
 
 **RESULTS**
 The Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables are verified by using Verilog programming.
